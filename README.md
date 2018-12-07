@@ -11,6 +11,6 @@ PTEMAU - Analytics and UX
   
 PTTA - Trafic and Analytics
   - Planning and measures
-  - Email marleting
+  - Email marketing
   - Web analytics 
   - Case study
