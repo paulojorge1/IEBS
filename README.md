@@ -1,5 +1,5 @@
 # IEBS
-Soon some code overhere from my clases in IEBS's MBA in Digital Marketing and Digital Business (https://www.iebschool.com).
+Soon some code overhere from my clases in IEBS's MBA in Marketing and Digital Business (https://www.iebschool.com).
 
 In January and February I'll teach:
 
